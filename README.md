@@ -30,6 +30,16 @@ poetry run python -m utils.create_word_list \
 --max_word_length 100
 ```
 
+## Generate Random Essays
+
+```bash
+poetry run python -m utils.generate_random_essays \
+--word_list_txt ./data/filtered_brown_max_df_3_isalpha_only.txt \
+--out_file ./data/random_essays.json \
+--n_words 50 \
+--max_char 450
+```
+
 ## Check Split
 Given some public LB scores, guess the possible combination for each attack and then prints some possible number of swaps needed for best improvements.
 
@@ -50,5 +60,7 @@ x1=101, x2=100, x3=99, Score=29.97415274492205
 x1=102, x2=99, x3=99, Score=29.974152744922005
 ...
 ```
+
+
 
 
