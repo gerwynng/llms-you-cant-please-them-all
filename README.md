@@ -15,6 +15,8 @@
 
 ## Requirements
 
+(tested with poetry `2.1.1`)
+
 ```bash
 poetry install --no-root
 ```
