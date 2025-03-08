@@ -1,6 +1,6 @@
-# [Kaggle: LLMs - You Can't Please Them All: 11th Place Solution](https://www.kaggle.com/competitions/llms-you-cant-please-them-all)
+# [Kaggle: LLMs - You Can't Please Them All](https://www.kaggle.com/competitions/llms-you-cant-please-them-all)
 
-- [Solution write-up](https://www.kaggle.com/competitions/llms-you-cant-please-them-all/discussion/566386)
+- [11th Place Write-up](https://www.kaggle.com/competitions/llms-you-cant-please-them-all/discussion/566386)
 
 # Data
 ## Synthetic 
